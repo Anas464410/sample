@@ -1,1 +1,2 @@
 This is another sample file.
+Changes made for file2.
